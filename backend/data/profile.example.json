@@ -1,0 +1,107 @@
+{
+  "personal_info": {
+    "full_name": "Candidato Ejemplo",
+    "headline": "Ingeniero de Software Full Stack | Python & React",
+    "email": "candidato.demo@example.com",
+    "phone": "+34 600 000 000",
+    "location": "Madrid, España",
+    "linkedin": "https://linkedin.com/in/usuario-demo",
+    "github": "https://github.com/usuario-demo",
+    "portfolio": "https://mi-portfolio.dev",
+    "summary": "Profesional de desarrollo de software enfocado en arquitecturas escalables y soluciones cloud."
+  },
+  "work_experience": [
+    {
+      "id": "exp-demo-1",
+      "role": "Senior Backend Engineer",
+      "company": "Tech Solutions Corp",
+      "location": "Remoto",
+      "contract_type": "Tiempo Completo",
+      "start_date": "01/2022",
+      "end_date": "Actualidad",
+      "is_current": true,
+      "responsibilities": [
+        "Desarrollo de servicios backend con FastAPI y PostgreSQL"
+      ],
+      "achievements": [
+        "Optimización de la latencia media de APIs en un 40% mediante caché distribuida"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "id": "edu-demo-1",
+      "degree": "Grado en Ingeniería Informática",
+      "degree_type": "universidad_grado",
+      "degree_type_label": "Titulación Universitaria Oficial (Grado)",
+      "institution": "Universidad Politécnica Ejemplo",
+      "start_year": "2016",
+      "end_year": "2020",
+      "grade": "8.5",
+      "hours_or_ects": "240 ECTS",
+      "certificate_url": null,
+      "certificate_file": null,
+      "is_official": true,
+      "is_verified": true
+    }
+  ],
+  "certifications": [
+    {
+      "id": "cert-demo-1",
+      "name": "AWS Certified Solutions Architect – Associate",
+      "degree_type": "certificacion_oficial",
+      "degree_type_label": "Certificación Oficial de la Industria",
+      "issuer": "Amazon Web Services",
+      "year": "2023",
+      "hours": "60 horas",
+      "credential_id": "AWS-CERT-DEMO-1234",
+      "certificate_url": null,
+      "certificate_file": null,
+      "is_official": true,
+      "is_verified": true
+    }
+  ],
+  "hard_skills": [
+    "Python",
+    "FastAPI",
+    "React",
+    "Docker",
+    "PostgreSQL",
+    "Git",
+    "Linux"
+  ],
+  "tools_and_tech": [
+    "VS Code",
+    "Postman",
+    "GitHub Actions",
+    "Docker Compose"
+  ],
+  "soft_skills": [
+    "Resolución analítica de problemas",
+    "Trabajo en equipo multidisciplinar",
+    "Comunicación técnica clara"
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "B2 - Profesional"
+    }
+  ],
+  "preferences": {
+    "desired_roles": [
+      "Senior Backend Engineer",
+      "Cloud Solutions Architect"
+    ],
+    "target_salary": "45.000€ - 55.000€",
+    "contract_types": [
+      "Tiempo Completo",
+      "Indefinido"
+    ],
+    "workplace_type": "Remoto",
+    "geographic_mobility": "Sin traslado"
+  }
+}

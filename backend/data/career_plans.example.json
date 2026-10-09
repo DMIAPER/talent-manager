@@ -1,0 +1,82 @@
+[
+  {
+    "id": "cp-demo-01",
+    "title": "Itinerario de Carrera Ejemplo: Senior Cloud & Backend Engineer",
+    "target_role": "Senior Cloud Solutions Architect",
+    "current_role": "Backend Developer",
+    "executive_summary": "Plan de carrera enfocado en el salto a diseño de arquitecturas cloud distribuidas, certificaciones oficiales y despliegues en contenedores.",
+    "trunk_baseline": {
+      "title": "Tronco Común & Base Demostrada",
+      "summary": "Bases sólidas en desarrollo backend y bases de datos relacionales.",
+      "core_skills": [
+        "Python",
+        "FastAPI",
+        "SQL",
+        "Git",
+        "Linux"
+      ]
+    },
+    "market_metrics": {
+      "market_demand_growth": "+28% anual",
+      "median_salary_spain": "48.000€ - 65.000€",
+      "remote_availability": "Alta (70% vacantes)",
+      "competition_level": "Media"
+    },
+    "branches": [
+      {
+        "id": "br-cloud-01",
+        "name": "🌿 Especialización Cloud Native & Kubernetes",
+        "branch_type": "specialization",
+        "target_role": "Cloud Architect",
+        "description": "Dominio de orquestación de contenedores y servicios gestionados en la nube.",
+        "market_demand": "+32% anual",
+        "salary_range_est": "50.000€ - 68.000€",
+        "fit_percentage": 88,
+        "color_theme": "#06b6d4",
+        "is_active": true,
+        "milestones": [
+          {
+            "id": "ms-c01",
+            "level": 1,
+            "title": "Fundamentos de Contenedores con Docker",
+            "provider": "Docker Oficial / Linux Foundation",
+            "duration_hours": 30,
+            "cost_estimate": "Gratuito / 50€",
+            "is_official_certification": false,
+            "status": "completed",
+            "status_label": "Completado",
+            "learning_objectives": [
+              "Creación de Dockerfile optimizados",
+              "Multi-stage builds y redes virtuales"
+            ],
+            "course_url": "https://www.docker.com",
+            "certificate_url": null,
+            "certificate_file": null
+          },
+          {
+            "id": "ms-c02",
+            "level": 2,
+            "title": "Orquestación Avanzada con Kubernetes (CKA)",
+            "provider": "Cloud Native Computing Foundation (CNCF)",
+            "duration_hours": 60,
+            "cost_estimate": "350€",
+            "is_official_certification": true,
+            "status": "in_progress",
+            "status_label": "En Progreso",
+            "learning_objectives": [
+              "Arquitectura de clústeres Kubernetes",
+              "Deployments, Services, Ingress y Storage"
+            ],
+            "course_url": "https://www.cncf.io/certification/cka/",
+            "certificate_url": null,
+            "certificate_file": null
+          }
+        ]
+      }
+    ],
+    "key_metrics": {
+      "overall_progress_pct": 50,
+      "estimated_weeks_remaining": 6
+    }
+  }
+]

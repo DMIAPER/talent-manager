@@ -1,0 +1,21 @@
+[
+  {
+    "id": "app-demo-01",
+    "company": "Innovatech Global",
+    "role": "Senior Backend Developer",
+    "location": "Remoto",
+    "contract_type": "Indefinido",
+    "status": "interview",
+    "applied_date": "2026-10-01",
+    "salary_range": "50.000€ - 58.000€",
+    "job_url": "https://www.linkedin.com/jobs/view/123456789",
+    "notes": "Entrevista técnica completada. Pendiente de propuesta final.",
+    "interactions": [
+      {
+        "date": "2026-10-02",
+        "type": "email",
+        "summary": "Contacto inicial con el recruiter técnico."
+      }
+    ]
+  }
+]
